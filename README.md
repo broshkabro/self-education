@@ -11,6 +11,6 @@ I will be glad to accept your pull requests with must-see, must-read and must-kn
 - [FlexboxDefense](http://www.flexboxdefense.com/) - a game for learning and practicing CSS flex property 
 
 ## In Russian
-- [HTMLAcademy](https://htmlacademy.ru/)
+- [HTMLAcademy](https://htmlacademy.ru/) - бесплатные интерактивные курсы по HTML и CSS
 - [Современный учебник Javascript](http://learn.javascript.ru/)
 - [ЧаВо по Git](http://firstaidgit.ru/#/)
