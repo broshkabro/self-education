@@ -9,6 +9,7 @@ I will be glad to accept your pull requests with must-see, must-read and must-kn
 ## In English
 - [HTML Dog](http://htmldog.com/)
 - [CodeAcademy](https://www.codecademy.com/)
+- [SidewaysDictionary](https://sidewaysdictionary.com/) - a dictionary, analogies are used instead of definitions
 - [FlexboxFroggy](http://flexboxfroggy.com/) - a game for learning and practicing CSS flex property 
 - [FlexboxDefense](http://www.flexboxdefense.com/) - a game for learning and practicing CSS flex property 
 - [CSS Selector Game](https://flukeout.github.io/) - a game which helps to learn CSS Specificity
