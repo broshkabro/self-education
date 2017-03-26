@@ -21,7 +21,7 @@ I will be glad to accept your pull requests with must-see, must-read and must-kn
 
 ## In Russian
 
-- [Школы]
+- Школы
   - [HTMLAcademy](https://htmlacademy.ru/) - бесплатные интерактивные курсы по HTML и CSS
 - [SASS Guidlines](https://sass-guidelin.es/ru/#section-48) - стайлгайд для SASS (перевод)
 - [Современный учебник Javascript](http://learn.javascript.ru/)
