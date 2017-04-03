@@ -31,6 +31,7 @@ I will be glad to accept your pull requests with must-see, must-read and must-kn
   - [Coloring SVGs in CSS Background Images](http://codepen.io/noahblon/post/coloring-svgs-in-css-background-images)
   - [How to work with SVG icons](https://fvsch.com/code/svg-icons/how-to/#section-styling)
   - [Best Practices for Sliding Hamburger Menus](https://webdesignledger.com/best-practices-for-hamburger-menus/)
+  - [Three Line Menu Navicon](https://css-tricks.com/three-line-menu-navicon/)
 
 
 ## In Russian
