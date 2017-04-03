@@ -30,6 +30,7 @@ I will be glad to accept your pull requests with must-see, must-read and must-kn
   - [Ultimate Guide to Non-Rectangular Headers (Part 1)](https://codepen.io/ahmadnassri/post/non-rectangular-headers-part-1)
   - [Coloring SVGs in CSS Background Images](http://codepen.io/noahblon/post/coloring-svgs-in-css-background-images)
   - [How to work with SVG icons](https://fvsch.com/code/svg-icons/how-to/#section-styling)
+  - [Best Practices for Sliding Hamburger Menus](https://webdesignledger.com/best-practices-for-hamburger-menus/)
 
 
 ## In Russian
