@@ -49,3 +49,6 @@ I will be glad to accept your pull requests with must-see, must-read and must-kn
   - [ЧаВо по Git](http://firstaidgit.ru/#/)
 - SVG
   - [SVG в вебе. Практическое руководство](https://svgontheweb.com/ru/#preparation)  
+
+- Полезности
+ - [25 полезных Chrome-расширений для веб-разработчиков](https://vc.ru/p/25-chrome-extensions)
