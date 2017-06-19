@@ -14,6 +14,10 @@ I will be glad to accept your pull requests with must-see, must-read and must-kn
 - Dictionaries  
   - [SidewaysDictionary](https://sidewaysdictionary.com/) - a dictionary, analogies are used instead of definitions
 
+- CSS
+  - [Pseudo Class Selectors](https://css-tricks.com/pseudo-class-selectors/)
+  - [The 30 CSS Selectors You Must Memorize](https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
+
 - CSS Games  
   - [FlexboxFroggy](http://flexboxfroggy.com/) - a game for learning and practicing CSS flex property 
   - [FlexboxDefense](http://www.flexboxdefense.com/) - a game for learning and practicing CSS flex property 
@@ -51,4 +55,4 @@ I will be glad to accept your pull requests with must-see, must-read and must-kn
   - [SVG в вебе. Практическое руководство](https://svgontheweb.com/ru/#preparation)  
 
 - Полезности
- - [25 полезных Chrome-расширений для веб-разработчиков](https://vc.ru/p/25-chrome-extensions)
+  - [25 полезных Chrome-расширений для веб-разработчиков](https://vc.ru/p/25-chrome-extensions)
