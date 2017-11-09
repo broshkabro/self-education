@@ -44,6 +44,9 @@ I will be glad to accept your pull requests with must-see, must-read and must-kn
 - Школы
   - [HTMLAcademy](https://htmlacademy.ru/) - бесплатные интерактивные курсы по HTML и CSS
 
+- CSS
+  - [Что такое Flexbox? Описание всех css свойств, основные принципы, преимущества и недостатки](http://html5.by/blog/flexbox/) 
+
 - JS
   - [Современный учебник Javascript](http://learn.javascript.ru/)  
 
@@ -57,3 +60,5 @@ I will be glad to accept your pull requests with must-see, must-read and must-kn
 
 - Полезности
   - [25 полезных Chrome-расширений для веб-разработчиков](https://vc.ru/p/25-chrome-extensions)
+
+  
