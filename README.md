@@ -37,6 +37,7 @@ I will be glad to accept your pull requests with must-see, must-read and must-kn
   - [Best Practices for Sliding Hamburger Menus](https://webdesignledger.com/best-practices-for-hamburger-menus/)
   - [Three Line Menu Navicon](https://css-tricks.com/three-line-menu-navicon/)
   - [JS DROPDOWN MENU](https://www.selftaughtjs.com/building-javascript-dropdown-menus/)
+  - [CSS triangle](https://css-tricks.com/snippets/css/css-triangle/)
 
 
 ## In Russian
