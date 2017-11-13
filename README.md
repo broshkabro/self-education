@@ -39,7 +39,7 @@ I will be glad to accept your pull requests with must-see, must-read and must-kn
   - [JS DROPDOWN MENU](https://www.selftaughtjs.com/building-javascript-dropdown-menus/)
   - [CSS triangle](https://css-tricks.com/snippets/css/css-triangle/)
   - [Heading with horizontal lines](http://vclever.com/blog/how-to-style-a-heading-with-horizontal-lines-either-side-using-css/)
-
+  - [How to make one circle inside another one](https://jsfiddle.net/972SF/452/)
 
 ## In Russian
 
