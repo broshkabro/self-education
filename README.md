@@ -30,7 +30,7 @@ I will be glad to accept your pull requests with must-see, must-read and must-kn
 - Git  
   - [Create a new branch with Git and manage branches](https://github.com/Kunena/Kunena-Forum/wiki/Create-a-new-branch-with-git-and-manage-branches) - a short article about managing github branches
 
-- How to code smth  
+- How to code  
   - [Ultimate Guide to Non-Rectangular Headers (Part 1)](https://codepen.io/ahmadnassri/post/non-rectangular-headers-part-1)
   - [Coloring SVGs in CSS Background Images](http://codepen.io/noahblon/post/coloring-svgs-in-css-background-images)
   - [How to work with SVG icons](https://fvsch.com/code/svg-icons/how-to/#section-styling)
@@ -38,6 +38,7 @@ I will be glad to accept your pull requests with must-see, must-read and must-kn
   - [Three Line Menu Navicon](https://css-tricks.com/three-line-menu-navicon/)
   - [JS DROPDOWN MENU](https://www.selftaughtjs.com/building-javascript-dropdown-menus/)
   - [CSS triangle](https://css-tricks.com/snippets/css/css-triangle/)
+  - [Heading with horizontal lines](http://vclever.com/blog/how-to-style-a-heading-with-horizontal-lines-either-side-using-css/)
 
 
 ## In Russian
