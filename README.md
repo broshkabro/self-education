@@ -43,6 +43,8 @@ I will be glad to accept your pull requests with must-see, must-read and must-kn
   - [Heading with horizontal lines](http://vclever.com/blog/how-to-style-a-heading-with-horizontal-lines-either-side-using-css/)
   - [How to make one circle inside another one](https://jsfiddle.net/972SF/452/)
   - [Tasty burger](https://codepen.io/nelsonswork/pen/XbbJVx?page=1&)
+  - [CSS Placeholder Color](http://htmlcolorcodes.com/tutorials/css-placeholder-color/)
+
 
 - JS
   -[Airbnb JS Style Guide](https://github.com/airbnb/javascript)
@@ -76,4 +78,8 @@ I will be glad to accept your pull requests with must-see, must-read and must-kn
   - [Жаргон функционального программирования](https://habrahabr.ru/post/310172/)
 
 - БЭМ
-  - [БЭМ методология](https://ru.bem.info/methodology/quick-start/)  
+  - [БЭМ методология](https://ru.bem.info/methodology/quick-start/) 
+
+- Реализация
+  - [Пример верстки поисковой формы для сайта на HTML5 и CSS3](http://dimox.name/search-form-markup-html5-css3/)
+
