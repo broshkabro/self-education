@@ -1,6 +1,6 @@
 # Welcome to my list of useful links for self-education in front-end development! 
 
-I will be glad to accept your pull requests with must-see, must-read and must-know recourses *_*
+I will be glad to accept your pull requests with must-see, must-read and must-know resources
 
 - [In English](#in-english)
 - [In Russian](#in-russian)
@@ -37,9 +37,14 @@ I will be glad to accept your pull requests with must-see, must-read and must-kn
   - [Best Practices for Sliding Hamburger Menus](https://webdesignledger.com/best-practices-for-hamburger-menus/)
   - [Three Line Menu Navicon](https://css-tricks.com/three-line-menu-navicon/)
   - [JS DROPDOWN MENU](https://www.selftaughtjs.com/building-javascript-dropdown-menus/)
+  - [Custom Drop-Down List Styling](https://tympanus.net/codrops/2012/10/04/custom-drop-down-list-styling/)
   - [CSS triangle](https://css-tricks.com/snippets/css/css-triangle/)
   - [Heading with horizontal lines](http://vclever.com/blog/how-to-style-a-heading-with-horizontal-lines-either-side-using-css/)
   - [How to make one circle inside another one](https://jsfiddle.net/972SF/452/)
+  - [Tasty burger](https://codepen.io/nelsonswork/pen/XbbJVx?page=1&)
+
+  -JS
+    -[Airbnb JS Style Guide](https://github.com/airbnb/javascript)
 
 ## In Russian
 
@@ -62,5 +67,11 @@ I will be glad to accept your pull requests with must-see, must-read and must-kn
 
 - Полезности
   - [25 полезных Chrome-расширений для веб-разработчиков](https://vc.ru/p/25-chrome-extensions)
+
+- Photoshop
+  - [Как создать направляющие линии в макете](https://toster.ru/q/445763) 
+
+- Программирование 
+  -[Жаргон функционального программирования](https://habrahabr.ru/post/310172/)
 
   
