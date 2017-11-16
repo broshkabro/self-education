@@ -10,6 +10,7 @@ I will be glad to accept your pull requests with must-see, must-read and must-kn
 - Schools
   - [HTML Dog](http://htmldog.com/)
   - [CodeAcademy](https://www.codecademy.com/)
+  - [Подборка онлайн-школ](https://tproger.ru/digest/ways-to-learn-how-to-code/)
 
 - Dictionaries  
   - [SidewaysDictionary](https://sidewaysdictionary.com/) - a dictionary, analogies are used instead of definitions
@@ -43,8 +44,8 @@ I will be glad to accept your pull requests with must-see, must-read and must-kn
   - [How to make one circle inside another one](https://jsfiddle.net/972SF/452/)
   - [Tasty burger](https://codepen.io/nelsonswork/pen/XbbJVx?page=1&)
 
-  -JS
-    -[Airbnb JS Style Guide](https://github.com/airbnb/javascript)
+- JS
+  -[Airbnb JS Style Guide](https://github.com/airbnb/javascript)
 
 ## In Russian
 
@@ -72,6 +73,7 @@ I will be glad to accept your pull requests with must-see, must-read and must-kn
   - [Как создать направляющие линии в макете](https://toster.ru/q/445763) 
 
 - Программирование 
-  -[Жаргон функционального программирования](https://habrahabr.ru/post/310172/)
+  - [Жаргон функционального программирования](https://habrahabr.ru/post/310172/)
 
-  
+- БЭМ
+  - [БЭМ методология](https://ru.bem.info/methodology/quick-start/)  
