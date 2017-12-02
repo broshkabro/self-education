@@ -45,9 +45,11 @@ I will be glad to accept your pull requests with must-see, must-read and must-kn
   - [Tasty burger](https://codepen.io/nelsonswork/pen/XbbJVx?page=1&)
   - [CSS Placeholder Color](http://htmlcolorcodes.com/tutorials/css-placeholder-color/)
 
-
 - JS
   -[Airbnb JS Style Guide](https://github.com/airbnb/javascript)
+
+- CANVAS
+  -[Canvas](http://diveintohtml5.info/canvas.html#text)
 
 ## In Russian
 
