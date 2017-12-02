@@ -46,10 +46,10 @@ I will be glad to accept your pull requests with must-see, must-read and must-kn
   - [CSS Placeholder Color](http://htmlcolorcodes.com/tutorials/css-placeholder-color/)
 
 - JS
-  -[Airbnb JS Style Guide](https://github.com/airbnb/javascript)
+  - [Airbnb JS Style Guide](https://github.com/airbnb/javascript)
 
 - CANVAS
-  -[Canvas - dive into HTML 5](http://diveintohtml5.info/canvas.html#text)
+  - [Canvas - dive into HTML 5](http://diveintohtml5.info/canvas.html#text)
 
 
 
@@ -72,9 +72,6 @@ I will be glad to accept your pull requests with must-see, must-read and must-kn
 - SVG
   - [SVG в вебе. Практическое руководство](https://svgontheweb.com/ru/#preparation)  
 
-- Полезности
-  - [25 полезных Chrome-расширений для веб-разработчиков](https://vc.ru/p/25-chrome-extensions)
-
 - Photoshop
   - [Как создать направляющие линии в макете](https://toster.ru/q/445763) 
 
@@ -86,4 +83,7 @@ I will be glad to accept your pull requests with must-see, must-read and must-kn
 
 - Реализация
   - [Пример верстки поисковой формы для сайта на HTML5 и CSS3](http://dimox.name/search-form-markup-html5-css3/)
+
+- Полезности
+  - [25 полезных Chrome-расширений для веб-разработчиков](https://vc.ru/p/25-chrome-extensions)
 
