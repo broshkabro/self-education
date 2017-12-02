@@ -51,6 +51,7 @@ I will be glad to accept your pull requests with must-see, must-read and must-kn
 - CANVAS
   - [Canvas - dive into HTML 5](http://diveintohtml5.info/canvas.html#text)
   - [Improving HTML5 Canvas Performance](https://www.html5rocks.com/en/tutorials/canvas/performance/#toc-mul-canvas)
+  - [Request Animation Frame](https://www.paulirish.com/2011/requestanimationframe-for-smart-animating/)
 
 - Game Development
   - [HTML Game Development](http://html5gamedevelopment.com/)  
