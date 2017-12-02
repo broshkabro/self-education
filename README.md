@@ -49,7 +49,9 @@ I will be glad to accept your pull requests with must-see, must-read and must-kn
   -[Airbnb JS Style Guide](https://github.com/airbnb/javascript)
 
 - CANVAS
-  -[Canvas](http://diveintohtml5.info/canvas.html#text)
+  -[Canvas - dive into HTML 5](http://diveintohtml5.info/canvas.html#text)
+
+
 
 ## In Russian
 
