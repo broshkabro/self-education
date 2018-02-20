@@ -99,4 +99,5 @@ I will be glad to accept your pull requests with must-see, must-read and must-kn
 
 - Полезности
   - [25 полезных Chrome-расширений для веб-разработчиков](https://vc.ru/p/25-chrome-extensions)
+  - [Полезные книги](https://tproger.ru/books/best-books-for-programmers/) - подборка хороших книг для программистов
 
