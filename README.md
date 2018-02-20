@@ -19,6 +19,8 @@ I will be glad to accept your pull requests with must-see, must-read and must-kn
   - [Pseudo Class Selectors](https://css-tricks.com/pseudo-class-selectors/)
   - [The 30 CSS Selectors You Must Memorize](https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
   - [Everything about Grid](https://gridbyexample.com/)
+  - [Patterns](https://www.toptal.com/designers/subtlepatterns/) - collection of patterns
+  - [Floats](https://css-tricks.com/all-about-floats/) - All about floats
 
 - CSS Games  
   - [FlexboxFroggy](http://flexboxfroggy.com/) - a game for learning and practicing CSS flex property 
@@ -45,9 +47,14 @@ I will be glad to accept your pull requests with must-see, must-read and must-kn
   - [How to make one circle inside another one](https://jsfiddle.net/972SF/452/)
   - [Tasty burger](https://codepen.io/nelsonswork/pen/XbbJVx?page=1&)
   - [CSS Placeholder Color](http://htmlcolorcodes.com/tutorials/css-placeholder-color/)
+  - [Modal Image Gallery](https://www.w3schools.com/howto/howto_js_lightbox.asp)
 
 - JS
+  - [Exploring ES6 - book](http://exploringjs.com/es6.html)
   - [Airbnb JS Style Guide](https://github.com/airbnb/javascript)
+
+- React.js
+  - [react-router specification](https://reacttraining.com/react-router/web/example/recursive-paths)  
 
 - CANVAS
   - [Canvas - dive into HTML 5](http://diveintohtml5.info/canvas.html#text)
