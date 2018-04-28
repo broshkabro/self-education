@@ -53,6 +53,7 @@ I will be glad to accept your pull requests with must-see, must-read and must-kn
 - JS
   - [Exploring ES6 - book](http://exploringjs.com/es6.html)
   - [Airbnb JS Style Guide](https://github.com/airbnb/javascript)
+  - [Scope, closue, hoisting](https://codeburst.io/js-demystified-04-execution-context-97dea52c8ac6)
 
 - React.js
   - [react-router specification](https://reacttraining.com/react-router/web/example/recursive-paths)  
