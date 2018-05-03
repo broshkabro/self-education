@@ -30,14 +30,17 @@ I will be glad to accept your pull requests with must-see, must-read and must-kn
 - SASS
   - [SASS Guidlines](https://sass-guidelin.es/) - a styleguide for SASS
   - [How to Use Sass Mixins](https://scotch.io/tutorials/how-to-use-sass-mixins)
+  
+- SVG
+  - [Coloring SVGs in CSS Background Images](http://codepen.io/noahblon/post/coloring-svgs-in-css-background-images)
+  - [How to work with SVG icons](https://fvsch.com/code/svg-icons/how-to/#section-styling)
 
 - Git  
   - [Create a new branch with Git and manage branches](https://github.com/Kunena/Kunena-Forum/wiki/Create-a-new-branch-with-git-and-manage-branches) - a short article about managing github branches
 
 - How to code  
   - [Ultimate Guide to Non-Rectangular Headers (Part 1)](https://codepen.io/ahmadnassri/post/non-rectangular-headers-part-1)
-  - [Coloring SVGs in CSS Background Images](http://codepen.io/noahblon/post/coloring-svgs-in-css-background-images)
-  - [How to work with SVG icons](https://fvsch.com/code/svg-icons/how-to/#section-styling)
+  - [Creating Non-Rectangular Headers](https://css-tricks.com/creating-non-rectangular-headers/)
   - [Best Practices for Sliding Hamburger Menus](https://webdesignledger.com/best-practices-for-hamburger-menus/)
   - [Three Line Menu Navicon](https://css-tricks.com/three-line-menu-navicon/)
   - [JS DROPDOWN MENU](https://www.selftaughtjs.com/building-javascript-dropdown-menus/)
@@ -87,7 +90,8 @@ I will be glad to accept your pull requests with must-see, must-read and must-kn
 - Git
   - [ЧаВо по Git](http://firstaidgit.ru/#/)
 - SVG
-  - [SVG в вебе. Практическое руководство](https://svgontheweb.com/ru/#preparation)  
+  - [SVG в вебе. Практическое руководство](https://svgontheweb.com/ru/#preparation)
+  - [Размеры в SVG](http://css.yoksel.ru/svg-sizes/)   
 
 - Photoshop
   - [Как создать направляющие линии в макете](https://toster.ru/q/445763) 
