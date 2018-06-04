@@ -68,8 +68,8 @@ I will be glad to accept your pull requests with must-see, must-read and must-kn
   - [HTML Game Development](http://html5gamedevelopment.com/)  
 
 - React
-  -[ReactJS For Beginners](https://blog.andrewray.me/reactjs-for-stupid-people/)
-  -[React setState promises & async await](https://github.com/facebook/react/issues/2642)
+  - [ReactJS For Beginners](https://blog.andrewray.me/reactjs-for-stupid-people/)
+  - [React setState promises & async await](https://github.com/facebook/react/issues/2642)
   
 
 
