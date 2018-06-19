@@ -55,6 +55,8 @@ I will be glad to accept your pull requests with must-see, must-read and must-kn
   - [Exploring ES6 - book](http://exploringjs.com/es6.html)
   - [Airbnb JS Style Guide](https://github.com/airbnb/javascript)
   - [Scope, closue, hoisting](https://codeburst.io/js-demystified-04-execution-context-97dea52c8ac6)
+  - [Javascript patterns](https://proglib.io/p/javascript-patterns/)
+  - [How to insert an element into array (slice + splice)](https://stackoverflow.com/questions/45147420/insert-object-into-array-at-specific-index-in-react)
 
 - React.js
   - [react-router specification](https://reacttraining.com/react-router/web/example/recursive-paths)  
@@ -70,6 +72,9 @@ I will be glad to accept your pull requests with must-see, must-read and must-kn
 - React
   - [ReactJS For Beginners](https://blog.andrewray.me/reactjs-for-stupid-people/)
   - [React setState promises & async await](https://github.com/facebook/react/issues/2642)
+  
+- WTF-JS
+  - [Unary plus vs parseInt](https://stackoverflow.com/questions/17106681/parseint-vs-unary-plus-when-to-use-which/17106702#17106702)
   
 
 
