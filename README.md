@@ -21,6 +21,7 @@ I will be glad to accept your pull requests with must-see, must-read and must-kn
   - [Everything about Grid](https://gridbyexample.com/)
   - [Patterns](https://www.toptal.com/designers/subtlepatterns/) - collection of patterns
   - [Floats](https://css-tricks.com/all-about-floats/) - All about floats
+  - [FLOAT LABELS IN INPUT](https://css-tricks.com/float-labels-css/) - All about float labels in input
 
 - CSS Games  
   - [FlexboxFroggy](http://flexboxfroggy.com/) - a game for learning and practicing CSS flex property 
