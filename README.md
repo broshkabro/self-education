@@ -21,6 +21,7 @@ I will be glad to accept your pull requests with must-see, must-read and must-kn
   - [Everything about Grid](https://gridbyexample.com/)
   - [Patterns](https://www.toptal.com/designers/subtlepatterns/) - collection of patterns
   - [Floats](https://css-tricks.com/all-about-floats/) - All about floats
+  - [FLOAT LABELS IN INPUT](https://css-tricks.com/float-labels-css/) - All about float labels in input
 
 - CSS Games  
   - [FlexboxFroggy](http://flexboxfroggy.com/) - a game for learning and practicing CSS flex property 
@@ -37,6 +38,8 @@ I will be glad to accept your pull requests with must-see, must-read and must-kn
 
 - Git  
   - [Create a new branch with Git and manage branches](https://github.com/Kunena/Kunena-Forum/wiki/Create-a-new-branch-with-git-and-manage-branches) - a short article about managing github branches
+  - [Cool & and easy to start leaning tutorial about git](https://githowto.com)
+  - [GitLab Flow](https://about.gitlab.com/2014/09/29/gitlab-flow/)
 
 - How to code  
   - [Ultimate Guide to Non-Rectangular Headers (Part 1)](https://codepen.io/ahmadnassri/post/non-rectangular-headers-part-1)
@@ -55,6 +58,9 @@ I will be glad to accept your pull requests with must-see, must-read and must-kn
 - JS
   - [Exploring ES6 - book](http://exploringjs.com/es6.html)
   - [Airbnb JS Style Guide](https://github.com/airbnb/javascript)
+  - [Scope, closure, hoisting](https://codeburst.io/js-demystified-04-execution-context-97dea52c8ac6)
+  - [Javascript patterns](https://proglib.io/p/javascript-patterns/)
+  - [How to insert an element into array (slice + splice)](https://stackoverflow.com/questions/45147420/insert-object-into-array-at-specific-index-in-react)
 
 - React.js
   - [react-router specification](https://reacttraining.com/react-router/web/example/recursive-paths)  
@@ -68,7 +74,11 @@ I will be glad to accept your pull requests with must-see, must-read and must-kn
   - [HTML Game Development](http://html5gamedevelopment.com/)  
 
 - React
-  -[ReactJS For Beginners](https://blog.andrewray.me/reactjs-for-stupid-people/)
+  - [ReactJS For Beginners](https://blog.andrewray.me/reactjs-for-stupid-people/)
+  - [React setState promises & async await](https://github.com/facebook/react/issues/2642)
+  
+- WTF-JS
+  - [Unary plus vs parseInt](https://stackoverflow.com/questions/17106681/parseint-vs-unary-plus-when-to-use-which/17106702#17106702)
   
 
 
