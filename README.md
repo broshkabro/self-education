@@ -77,7 +77,8 @@ I will be glad to accept your pull requests with must-see, must-read and must-kn
 - WTF-JS
   - [Unary plus vs parseInt](https://stackoverflow.com/questions/17106681/parseint-vs-unary-plus-when-to-use-which/17106702#17106702)
   
-
+- GraphQL
+  [GraphQL playground](https://developer.github.com/v4/explorer/)
 
 
 ## In Russian
