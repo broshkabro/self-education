@@ -81,6 +81,7 @@ I will be glad to accept your pull requests with must-see, must-read and must-kn
   - [GraphQL playground](https://developer.github.com/v4/explorer/)
   - [GraphQL Appolo-React integration](https://www.apollographql.com/docs/react/)
   - [GraphQL React Tutorial](https://blog.hichroma.com/graphql-react-tutorial-part-1-6-d0691af25858)
+  - [GraphQL Cheat Sheet](https://github.com/sogko/graphql-schema-language-cheat-sheet)
   
 - jsPerf
   - [Type coercion positive numbers (unary plus vs Number vs parseInt)] https://jsperf.com/type-coercion-positive-numbers
