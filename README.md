@@ -83,6 +83,12 @@ I will be glad to accept your pull requests with must-see, must-read and must-kn
   - [GraphQL React Tutorial](https://blog.hichroma.com/graphql-react-tutorial-part-1-6-d0691af25858)
   - [GraphQL Cheat Sheet](https://github.com/sogko/graphql-schema-language-cheat-sheet)
   
+  Apollo-client
+  - [refetchQueries](https://github.com/apollographql/apollo-client/issues/1900)
+  - [refetchQueries stackoverflow](https://stackoverflow.com/questions/47301409/using-refetchqueries-with-apollo-and-react)
+  - [refetchQueries on Apollo docs](https://www.apollographql.com/docs/react/advanced/caching.html#refetchQueries)
+
+  
 - jsPerf
   - [Type coercion positive numbers (unary plus vs Number vs parseInt)] https://jsperf.com/type-coercion-positive-numbers
   - [Type coercion negative numbers (unary plus vs Number vs parseInt)] https://jsperf.com/type-coercion-negative-numbers
