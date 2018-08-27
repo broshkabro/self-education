@@ -61,6 +61,8 @@ I will be glad to accept your pull requests with must-see, must-read and must-kn
   - [Scope, closure, hoisting](https://codeburst.io/js-demystified-04-execution-context-97dea52c8ac6)
   - [Javascript patterns](https://proglib.io/p/javascript-patterns/)
   - [How to insert an element into array (slice + splice)](https://stackoverflow.com/questions/45147420/insert-object-into-array-at-specific-index-in-react)
+  - [ES modules: A cartoon deep-dive](https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/)
+  - [Files with .mjs extension for JavaScript modules](https://medium.com/passpill-project/files-with-mjs-extension-for-javascript-modules-ced195d7c84a)
 
 - React.js
   - [react-router specification](https://reacttraining.com/react-router/web/example/recursive-paths)  
@@ -77,10 +79,15 @@ I will be glad to accept your pull requests with must-see, must-read and must-kn
   - [ReactJS For Beginners](https://blog.andrewray.me/reactjs-for-stupid-people/)
   - [React setState promises & async await](https://github.com/facebook/react/issues/2642)
   
+- Angular
+  - [Understanding Angular modules (NgModule) and their scopes](https://medium.com/@cyrilletuzi/understanding-angular-modules-ngmodule-and-their-scopes-81e4ed6f7407)
+
 - WTF-JS
   - [Unary plus vs parseInt](https://stackoverflow.com/questions/17106681/parseint-vs-unary-plus-when-to-use-which/17106702#17106702)
-  
 
+- Design
+  - [Color Gradients and Palettes](https://mycolor.space/)
+  
 
 
 ## In Russian
@@ -93,6 +100,12 @@ I will be glad to accept your pull requests with must-see, must-read and must-kn
 
 - JS
   - [Современный учебник Javascript](http://learn.javascript.ru/)  
+
+- Node.js
+  - [Начало работы с Node.js](https://medium.com/devschacht/node-hero-chapter-1-239f7afeb1d1)  
+
+- TypeScript
+  - [Основы TypeScript](https://metanit.com/web/typescript/1.1.php)
 
 - SASS  
   - [SASS Guidlines](https://sass-guidelin.es/ru/#section-48) - стайлгайд для SASS (перевод)
