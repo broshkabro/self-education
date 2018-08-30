@@ -35,6 +35,8 @@ I will be glad to accept your pull requests with must-see, must-read and must-kn
 - SVG
   - [Coloring SVGs in CSS Background Images](http://codepen.io/noahblon/post/coloring-svgs-in-css-background-images)
   - [How to work with SVG icons](https://fvsch.com/code/svg-icons/how-to/#section-styling)
+  - [SVG sprites](https://www.webdesignerdepot.com/2017/05/how-to-create-and-manage-svg-sprites/)
+  - [SVG optimizer](https://jakearchibald.github.io/svgomg/)
 
 - Git  
   - [Create a new branch with Git and manage branches](https://github.com/Kunena/Kunena-Forum/wiki/Create-a-new-branch-with-git-and-manage-branches) - a short article about managing github branches
@@ -87,6 +89,8 @@ I will be glad to accept your pull requests with must-see, must-read and must-kn
 
 - Design
   - [Color Gradients and Palettes](https://mycolor.space/)
+  - [Online photoshop](https://www.photopea.com/);
+  - [Cubic-bezier fot CSS transitions](http://cubic-bezier.com/#.17,.67,.83,.67);
   
 
 
@@ -97,6 +101,7 @@ I will be glad to accept your pull requests with must-see, must-read and must-kn
 
 - CSS
   - [Что такое Flexbox? Описание всех css свойств, основные принципы, преимущества и недостатки](http://html5.by/blog/flexbox/) 
+  - [CSS Animation](http://css.yoksel.ru/css-animation/)
 
 - JS
   - [Современный учебник Javascript](http://learn.javascript.ru/)  
