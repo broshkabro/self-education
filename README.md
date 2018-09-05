@@ -115,7 +115,7 @@ I will be glad to accept your pull requests with must-see, must-read and must-kn
  - Design
   - [Color Gradients and Palettes](https://mycolor.space/)
   - [Online photoshop](https://www.photopea.com/);
-  - [Cubic-bezier fot CSS transitions](http://cubic-bezier.com/#.17,.67,.83,.67);
+  - [Cubic-bezier for CSS transitions](http://cubic-bezier.com/#.17,.67,.83,.67);
 
 
 ## In Russian
