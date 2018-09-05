@@ -31,6 +31,12 @@ I will be glad to accept your pull requests with must-see, must-read and must-kn
 - SASS
   - [SASS Guidlines](https://sass-guidelin.es/) - a styleguide for SASS
   - [How to Use Sass Mixins](https://scotch.io/tutorials/how-to-use-sass-mixins)
+  
+- SVG
+  - [Coloring SVGs in CSS Background Images](http://codepen.io/noahblon/post/coloring-svgs-in-css-background-images)
+  - [How to work with SVG icons](https://fvsch.com/code/svg-icons/how-to/#section-styling)
+  - [SVG sprites](https://www.webdesignerdepot.com/2017/05/how-to-create-and-manage-svg-sprites/)
+  - [SVG optimizer](https://jakearchibald.github.io/svgomg/)
 
 - Git  
   - [Create a new branch with Git and manage branches](https://github.com/Kunena/Kunena-Forum/wiki/Create-a-new-branch-with-git-and-manage-branches) - a short article about managing github branches
@@ -39,8 +45,7 @@ I will be glad to accept your pull requests with must-see, must-read and must-kn
 
 - How to code  
   - [Ultimate Guide to Non-Rectangular Headers (Part 1)](https://codepen.io/ahmadnassri/post/non-rectangular-headers-part-1)
-  - [Coloring SVGs in CSS Background Images](http://codepen.io/noahblon/post/coloring-svgs-in-css-background-images)
-  - [How to work with SVG icons](https://fvsch.com/code/svg-icons/how-to/#section-styling)
+  - [Creating Non-Rectangular Headers](https://css-tricks.com/creating-non-rectangular-headers/)
   - [Best Practices for Sliding Hamburger Menus](https://webdesignledger.com/best-practices-for-hamburger-menus/)
   - [Three Line Menu Navicon](https://css-tricks.com/three-line-menu-navicon/)
   - [JS DROPDOWN MENU](https://www.selftaughtjs.com/building-javascript-dropdown-menus/)
@@ -58,6 +63,8 @@ I will be glad to accept your pull requests with must-see, must-read and must-kn
   - [Scope, closure, hoisting](https://codeburst.io/js-demystified-04-execution-context-97dea52c8ac6)
   - [Javascript patterns](https://proglib.io/p/javascript-patterns/)
   - [How to insert an element into array (slice + splice)](https://stackoverflow.com/questions/45147420/insert-object-into-array-at-specific-index-in-react)
+  - [ES modules: A cartoon deep-dive](https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/)
+  - [Files with .mjs extension for JavaScript modules](https://medium.com/passpill-project/files-with-mjs-extension-for-javascript-modules-ced195d7c84a)
 
 - React.js
   - [react-router specification](https://reacttraining.com/react-router/web/example/recursive-paths)  
@@ -74,9 +81,12 @@ I will be glad to accept your pull requests with must-see, must-read and must-kn
   - [ReactJS For Beginners](https://blog.andrewray.me/reactjs-for-stupid-people/)
   - [React setState promises & async await](https://github.com/facebook/react/issues/2642)
   
+- Angular
+  - [Understanding Angular modules (NgModule) and their scopes](https://medium.com/@cyrilletuzi/understanding-angular-modules-ngmodule-and-their-scopes-81e4ed6f7407)
+
 - WTF-JS
   - [Unary plus vs parseInt](https://stackoverflow.com/questions/17106681/parseint-vs-unary-plus-when-to-use-which/17106702#17106702)
-  
+
 - GraphQL
   - [GraphQL playground](https://developer.github.com/v4/explorer/)
   - [GraphQL Appolo-React integration](https://www.apollographql.com/docs/react/)
@@ -101,9 +111,11 @@ I will be glad to accept your pull requests with must-see, must-read and must-kn
   
  - CHEATSHEETS
   - [devhints.io](https://devhints.io/)
-
-
   
+ - Design
+  - [Color Gradients and Palettes](https://mycolor.space/)
+  - [Online photoshop](https://www.photopea.com/);
+  - [Cubic-bezier fot CSS transitions](http://cubic-bezier.com/#.17,.67,.83,.67);
 
 
 ## In Russian
@@ -113,9 +125,16 @@ I will be glad to accept your pull requests with must-see, must-read and must-kn
 
 - CSS
   - [Что такое Flexbox? Описание всех css свойств, основные принципы, преимущества и недостатки](http://html5.by/blog/flexbox/) 
+  - [CSS Animation](http://css.yoksel.ru/css-animation/)
 
 - JS
   - [Современный учебник Javascript](http://learn.javascript.ru/)  
+
+- Node.js
+  - [Начало работы с Node.js](https://medium.com/devschacht/node-hero-chapter-1-239f7afeb1d1)  
+
+- TypeScript
+  - [Основы TypeScript](https://metanit.com/web/typescript/1.1.php)
 
 - SASS  
   - [SASS Guidlines](https://sass-guidelin.es/ru/#section-48) - стайлгайд для SASS (перевод)
@@ -123,7 +142,8 @@ I will be glad to accept your pull requests with must-see, must-read and must-kn
 - Git
   - [ЧаВо по Git](http://firstaidgit.ru/#/)
 - SVG
-  - [SVG в вебе. Практическое руководство](https://svgontheweb.com/ru/#preparation)  
+  - [SVG в вебе. Практическое руководство](https://svgontheweb.com/ru/#preparation)
+  - [Размеры в SVG](http://css.yoksel.ru/svg-sizes/)   
 
 - Photoshop
   - [Как создать направляющие линии в макете](https://toster.ru/q/445763) 
