@@ -92,6 +92,16 @@ I will be glad to accept your pull requests with must-see, must-read and must-kn
 - jsPerf
   - [Type coercion positive numbers (unary plus vs Number vs parseInt)] https://jsperf.com/type-coercion-positive-numbers
   - [Type coercion negative numbers (unary plus vs Number vs parseInt)] https://jsperf.com/type-coercion-negative-numbers
+  
+- Jest
+  - [Check that object has validd prop type](https://stackoverflow.com/questions/46103811/how-to-check-for-object-properties-match-for-an-object-using-jest)
+  - [Jest docs](https://deltice.github.io/jest/docs/en/expect.html)
+  - [Jest test if it object, array, string](https://github.com/facebook/jest/issues/3457)
+  - [Jest test for array of objects](https://medium.com/@andrei.pfeiffer/jest-matching-objects-in-array-50fe2f4d6b98)
+  
+ - CHEATSHEETS
+  - [devhints.io](https://devhints.io/)
+
 
   
 
