@@ -107,6 +107,7 @@ I will be glad to accept your pull requests with must-see, must-read and must-kn
   - [Современный учебник Javascript](http://learn.javascript.ru/)  
 
 - Node.js
+  - [npm-скрипты](http://prgssr.ru/development/pochemu-npm-skripty.html)
   - [Начало работы с Node.js](https://medium.com/devschacht/node-hero-chapter-1-239f7afeb1d1)  
 
 - TypeScript
