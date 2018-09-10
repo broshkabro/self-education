@@ -87,11 +87,35 @@ I will be glad to accept your pull requests with must-see, must-read and must-kn
 - WTF-JS
   - [Unary plus vs parseInt](https://stackoverflow.com/questions/17106681/parseint-vs-unary-plus-when-to-use-which/17106702#17106702)
 
-- Design
+- GraphQL
+  - [GraphQL playground](https://developer.github.com/v4/explorer/)
+  - [GraphQL Appolo-React integration](https://www.apollographql.com/docs/react/)
+  - [GraphQL React Tutorial](https://blog.hichroma.com/graphql-react-tutorial-part-1-6-d0691af25858)
+  - [GraphQL Cheat Sheet](https://github.com/sogko/graphql-schema-language-cheat-sheet)
+  
+  Apollo-client
+  - [refetchQueries](https://github.com/apollographql/apollo-client/issues/1900)
+  - [refetchQueries stackoverflow](https://stackoverflow.com/questions/47301409/using-refetchqueries-with-apollo-and-react)
+  - [refetchQueries on Apollo docs](https://www.apollographql.com/docs/react/advanced/caching.html#refetchQueries)
+
+  
+- jsPerf
+  - [Type coercion positive numbers (unary plus vs Number vs parseInt)] https://jsperf.com/type-coercion-positive-numbers
+  - [Type coercion negative numbers (unary plus vs Number vs parseInt)] https://jsperf.com/type-coercion-negative-numbers
+  
+- Jest
+  - [Check that object has valid prop type](https://stackoverflow.com/questions/46103811/how-to-check-for-object-properties-match-for-an-object-using-jest)
+  - [Jest docs](https://deltice.github.io/jest/docs/en/expect.html)
+  - [Jest tests if it's object, array, string](https://github.com/facebook/jest/issues/3457)
+  - [Jest tests for array of objects](https://medium.com/@andrei.pfeiffer/jest-matching-objects-in-array-50fe2f4d6b98)
+  
+ - CHEATSHEETS
+  - [devhints.io](https://devhints.io/)
+  
+ - Design
   - [Color Gradients and Palettes](https://mycolor.space/)
   - [Online photoshop](https://www.photopea.com/);
-  - [Cubic-bezier fot CSS transitions](http://cubic-bezier.com/#.17,.67,.83,.67);
-  
+  - [Cubic-bezier for CSS transitions](http://cubic-bezier.com/#.17,.67,.83,.67);
 
 
 ## In Russian
