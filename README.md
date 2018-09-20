@@ -147,7 +147,8 @@ I will be glad to accept your pull requests with must-see, must-read and must-kn
   - [Размеры в SVG](http://css.yoksel.ru/svg-sizes/)   
 
 - Photoshop
-  - [Как создать направляющие линии в макете](https://toster.ru/q/445763) 
+  - [Как создать направляющие линии в макете](https://toster.ru/q/445763)
+  - [Цветовые палитры](http://color.romanuke.com/tsvetovaya-palitra-2279/) 
 
 - Программирование 
   - [Жаргон функционального программирования](https://habrahabr.ru/post/310172/)
