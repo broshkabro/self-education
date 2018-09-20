@@ -37,9 +37,10 @@ I will be glad to accept your pull requests with must-see, must-read and must-kn
   - [How to work with SVG icons](https://fvsch.com/code/svg-icons/how-to/#section-styling)
   - [SVG sprites](https://www.webdesignerdepot.com/2017/05/how-to-create-and-manage-svg-sprites/)
   - [SVG optimizer](https://jakearchibald.github.io/svgomg/)
+  - [How to Scale SVG](https://css-tricks.com/scale-svg/)
 
 - Git  
-  - [Create a new branch with Git and manage branches](https://github.com/Kunena/Kunena-Forum/wiki/Create-a-new-branch-with-git-and-manage-branches) - a short article about managing github branches
+  - [Create a new branch with Git and manage branches](https://github.com/Kunena/Kunena-Forum/wiki/Create-a-new-branch-with-git-and-manage-branches) - an article about managing github branches
   - [Cool & and easy to start leaning tutorial about git](https://githowto.com)
   - [GitLab Flow](https://about.gitlab.com/2014/09/29/gitlab-flow/)
 
@@ -109,13 +110,14 @@ I will be glad to accept your pull requests with must-see, must-read and must-kn
   - [Jest tests if it's object, array, string](https://github.com/facebook/jest/issues/3457)
   - [Jest tests for array of objects](https://medium.com/@andrei.pfeiffer/jest-matching-objects-in-array-50fe2f4d6b98)
   
- - CHEATSHEETS
+- CHEATSHEETS
   - [devhints.io](https://devhints.io/)
   
- - Design
+- Design
   - [Color Gradients and Palettes](https://mycolor.space/)
-  - [Online photoshop](https://www.photopea.com/);
-  - [Cubic-bezier for CSS transitions](http://cubic-bezier.com/#.17,.67,.83,.67);
+  - [Online photoshop](https://www.photopea.com/)
+  - [Cubic-bezier for CSS transitions](http://cubic-bezier.com/#.17,.67,.83,.67)
+  - [Free patterns](https://www.toptal.com/designers/subtlepatterns/)
 
 
 ## In Russian
@@ -129,6 +131,7 @@ I will be glad to accept your pull requests with must-see, must-read and must-kn
 
 - JS
   - [Современный учебник Javascript](http://learn.javascript.ru/)  
+  - [Как работает JS: цикл событий, асинхронность](https://habr.com/company/ruvds/blog/340508/)
 
 - Node.js
   - [npm-скрипты](http://prgssr.ru/development/pochemu-npm-skripty.html)
