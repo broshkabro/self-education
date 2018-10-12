@@ -67,6 +67,10 @@ I will be glad to accept your pull requests with must-see, must-read and must-kn
   - [Files with .mjs extension for JavaScript modules](https://medium.com/passpill-project/files-with-mjs-extension-for-javascript-modules-ced195d7c84a)
   - [Are curly braces necessary in one-line statements in JavaScript?](https://stackoverflow.com/questions/4797286/are-curly-braces-necessary-in-one-line-statements-in-javascript)
 
+- Regex
+  - [Regex tutorial](https://www.regular-expressions.info/lookaround.html)
+  - [Regex tutorial 2](https://www.rexegg.com/regex-lookarounds.html)
+
 - React.js
   - [react-router specification](https://reacttraining.com/react-router/web/example/recursive-paths)  
 
@@ -102,7 +106,6 @@ I will be glad to accept your pull requests with must-see, must-read and must-kn
   - [refetchQueries stackoverflow](https://stackoverflow.com/questions/47301409/using-refetchqueries-with-apollo-and-react)
   - [refetchQueries on Apollo docs](https://www.apollographql.com/docs/react/advanced/caching.html#refetchQueries)
 
-  
 - jsPerf
   - [Type coercion positive numbers (unary plus vs Number vs parseInt)] https://jsperf.com/type-coercion-positive-numbers
   - [Type coercion negative numbers (unary plus vs Number vs parseInt)] https://jsperf.com/type-coercion-negative-numbers
