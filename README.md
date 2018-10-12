@@ -117,6 +117,9 @@ I will be glad to accept your pull requests with must-see, must-read and must-kn
   - [Online photoshop](https://www.photopea.com/);
   - [Cubic-bezier for CSS transitions](http://cubic-bezier.com/#.17,.67,.83,.67);
 
+ - INTERVIEW TIPS
+  - [How to pay devs less](https://ebanoe.it/2016/12/08/how-to-pay-devs-less/)
+  - [How to pay devs less 2](https://ebanoe.it/2017/02/09/how-to-oppress-developers/)
 
 ## In Russian
 
