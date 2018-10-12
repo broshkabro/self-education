@@ -81,6 +81,9 @@ I will be glad to accept your pull requests with must-see, must-read and must-kn
   - [ReactJS For Beginners](https://blog.andrewray.me/reactjs-for-stupid-people/)
   - [React setState promises & async await](https://github.com/facebook/react/issues/2642)
   
+- Redux
+  - [What are the disadvantages of storing all your state in a single immutable atom?](https://github.com/reduxjs/redux/issues/1385)
+  
 - Angular
   - [Understanding Angular modules (NgModule) and their scopes](https://medium.com/@cyrilletuzi/understanding-angular-modules-ngmodule-and-their-scopes-81e4ed6f7407)
 
