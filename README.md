@@ -65,6 +65,7 @@ I will be glad to accept your pull requests with must-see, must-read and must-kn
   - [How to insert an element into array (slice + splice)](https://stackoverflow.com/questions/45147420/insert-object-into-array-at-specific-index-in-react)
   - [ES modules: A cartoon deep-dive](https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/)
   - [Files with .mjs extension for JavaScript modules](https://medium.com/passpill-project/files-with-mjs-extension-for-javascript-modules-ced195d7c84a)
+  - [Are curly braces necessary in one-line statements in JavaScript?](https://stackoverflow.com/questions/4797286/are-curly-braces-necessary-in-one-line-statements-in-javascript)
 
 - React.js
   - [react-router specification](https://reacttraining.com/react-router/web/example/recursive-paths)  
