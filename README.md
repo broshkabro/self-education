@@ -66,6 +66,11 @@ I will be glad to accept your pull requests with must-see, must-read and must-kn
   - [How to insert an element into array (slice + splice)](https://stackoverflow.com/questions/45147420/insert-object-into-array-at-specific-index-in-react)
   - [ES modules: A cartoon deep-dive](https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/)
   - [Files with .mjs extension for JavaScript modules](https://medium.com/passpill-project/files-with-mjs-extension-for-javascript-modules-ced195d7c84a)
+  - [Are curly braces necessary in one-line statements in JavaScript?](https://stackoverflow.com/questions/4797286/are-curly-braces-necessary-in-one-line-statements-in-javascript)
+
+- Regex
+  - [Regex tutorial](https://www.regular-expressions.info/lookaround.html)
+  - [Regex tutorial 2](https://www.rexegg.com/regex-lookarounds.html)
 
 - React.js
   - [react-router specification](https://reacttraining.com/react-router/web/example/recursive-paths)  
@@ -81,6 +86,9 @@ I will be glad to accept your pull requests with must-see, must-read and must-kn
 - React
   - [ReactJS For Beginners](https://blog.andrewray.me/reactjs-for-stupid-people/)
   - [React setState promises & async await](https://github.com/facebook/react/issues/2642)
+  
+- Redux
+  - [What are the disadvantages of storing all your state in a single immutable atom?](https://github.com/reduxjs/redux/issues/1385)
   
 - Angular
   - [Understanding Angular modules (NgModule) and their scopes](https://medium.com/@cyrilletuzi/understanding-angular-modules-ngmodule-and-their-scopes-81e4ed6f7407)
@@ -99,7 +107,6 @@ I will be glad to accept your pull requests with must-see, must-read and must-kn
   - [refetchQueries stackoverflow](https://stackoverflow.com/questions/47301409/using-refetchqueries-with-apollo-and-react)
   - [refetchQueries on Apollo docs](https://www.apollographql.com/docs/react/advanced/caching.html#refetchQueries)
 
-  
 - jsPerf
   - [Type coercion positive numbers (unary plus vs Number vs parseInt)] https://jsperf.com/type-coercion-positive-numbers
   - [Type coercion negative numbers (unary plus vs Number vs parseInt)] https://jsperf.com/type-coercion-negative-numbers
@@ -119,6 +126,9 @@ I will be glad to accept your pull requests with must-see, must-read and must-kn
   - [Cubic-bezier for CSS transitions](http://cubic-bezier.com/#.17,.67,.83,.67)
   - [Free patterns](https://www.toptal.com/designers/subtlepatterns/)
 
+ - INTERVIEW TIPS
+  - [How to pay devs less](https://ebanoe.it/2016/12/08/how-to-pay-devs-less/)
+  - [How to pay devs less 2](https://ebanoe.it/2017/02/09/how-to-oppress-developers/)
 
 ## In Russian
 
