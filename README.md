@@ -57,6 +57,7 @@ I will be glad to accept your pull requests with must-see, must-read and must-kn
   - [Tasty burger](https://codepen.io/nelsonswork/pen/XbbJVx?page=1&)
   - [CSS Placeholder Color](http://htmlcolorcodes.com/tutorials/css-placeholder-color/)
   - [Modal Image Gallery](https://www.w3schools.com/howto/howto_js_lightbox.asp)
+  - [Breadcrumb Example](https://www.w3.org/TR/wai-aria-practices/examples/breadcrumb/index.html)
 
 - JS
   - [Exploring ES6 - book](http://exploringjs.com/es6.html)
@@ -129,6 +130,13 @@ I will be glad to accept your pull requests with must-see, must-read and must-kn
  - INTERVIEW TIPS
   - [How to pay devs less](https://ebanoe.it/2016/12/08/how-to-pay-devs-less/)
   - [How to pay devs less 2](https://ebanoe.it/2017/02/09/how-to-oppress-developers/)
+
+ - Webpack
+  - [Static website, multiple html pages using Webpack](https://www.ivarprudnikov.com/static-website-multiple-html-pages-using-webpack-plus-github-example/)
+
+ - WebDriver
+  - [Selenium-webdriver doc](https://seleniumhq.github.io/selenium/docs/api/javascript/index.html)
+
 
 ## In Russian
 
