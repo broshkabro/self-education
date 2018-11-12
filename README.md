@@ -42,6 +42,7 @@ I will be glad to accept your pull requests with must-see, must-read and must-kn
 - Git  
   - [Create a new branch with Git and manage branches](https://github.com/Kunena/Kunena-Forum/wiki/Create-a-new-branch-with-git-and-manage-branches) - an article about managing github branches
   - [Cool & and easy to start leaning tutorial about git](https://githowto.com)
+  - [Learn Git Branching](https://learngitbranching.js.org/)
   - [GitLab Flow](https://about.gitlab.com/2014/09/29/gitlab-flow/)
 
 - How to code  
@@ -109,8 +110,8 @@ I will be glad to accept your pull requests with must-see, must-read and must-kn
   - [refetchQueries on Apollo docs](https://www.apollographql.com/docs/react/advanced/caching.html#refetchQueries)
 
 - jsPerf
-  - [Type coercion positive numbers (unary plus vs Number vs parseInt)] https://jsperf.com/type-coercion-positive-numbers
-  - [Type coercion negative numbers (unary plus vs Number vs parseInt)] https://jsperf.com/type-coercion-negative-numbers
+  - [Type coercion positive numbers (unary plus vs Number vs parseInt)] (https://jsperf.com/type-coercion-positive-numbers)
+  - [Type coercion negative numbers (unary plus vs Number vs parseInt)] (https://jsperf.com/type-coercion-negative-numbers)
   
 - Jest
   - [Check that object has valid prop type](https://stackoverflow.com/questions/46103811/how-to-check-for-object-properties-match-for-an-object-using-jest)
@@ -127,14 +128,14 @@ I will be glad to accept your pull requests with must-see, must-read and must-kn
   - [Cubic-bezier for CSS transitions](http://cubic-bezier.com/#.17,.67,.83,.67)
   - [Free patterns](https://www.toptal.com/designers/subtlepatterns/)
 
- - INTERVIEW TIPS
+- INTERVIEW TIPS
   - [How to pay devs less](https://ebanoe.it/2016/12/08/how-to-pay-devs-less/)
   - [How to pay devs less 2](https://ebanoe.it/2017/02/09/how-to-oppress-developers/)
 
- - Webpack
+- Webpack
   - [Static website, multiple html pages using Webpack](https://www.ivarprudnikov.com/static-website-multiple-html-pages-using-webpack-plus-github-example/)
 
- - WebDriver
+- WebDriver
   - [Selenium-webdriver doc](https://seleniumhq.github.io/selenium/docs/api/javascript/index.html)
 
 
