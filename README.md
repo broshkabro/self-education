@@ -22,6 +22,7 @@ I will be glad to accept your pull requests with must-see, must-read and must-kn
   - [Patterns](https://www.toptal.com/designers/subtlepatterns/) - collection of patterns
   - [Floats](https://css-tricks.com/all-about-floats/) - All about floats
   - [FLOAT LABELS IN INPUT](https://css-tricks.com/float-labels-css/) - All about float labels in input
+  - [CSS Animation Libraries](https://css-tricks.com/css-animation-libraries/) - An overview of different CSS 'grab-and-use' libraries
 
 - CSS Games  
   - [FlexboxFroggy](http://flexboxfroggy.com/) - a game for learning and practicing CSS flex property 
@@ -110,8 +111,8 @@ I will be glad to accept your pull requests with must-see, must-read and must-kn
   - [refetchQueries on Apollo docs](https://www.apollographql.com/docs/react/advanced/caching.html#refetchQueries)
 
 - jsPerf
-  - [Type coercion positive numbers (unary plus vs Number vs parseInt)] (https://jsperf.com/type-coercion-positive-numbers)
-  - [Type coercion negative numbers (unary plus vs Number vs parseInt)] (https://jsperf.com/type-coercion-negative-numbers)
+  - [Type coercion positive numbers (unary plus vs Number vs parseInt)](https://jsperf.com/type-coercion-positive-numbers)
+  - [Type coercion negative numbers (unary plus vs Number vs parseInt)](https://jsperf.com/type-coercion-negative-numbers)
   
 - Jest
   - [Check that object has valid prop type](https://stackoverflow.com/questions/46103811/how-to-check-for-object-properties-match-for-an-object-using-jest)
