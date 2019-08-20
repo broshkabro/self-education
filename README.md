@@ -10,7 +10,6 @@ I will be glad to accept your pull requests with must-see, must-read and must-kn
 - Schools
   - [HTML Dog](http://htmldog.com/)
   - [CodeAcademy](https://www.codecademy.com/)
-  - [Подборка онлайн-школ](https://tproger.ru/digest/ways-to-learn-how-to-code/)
 
 - Dictionaries  
   - [SidewaysDictionary](https://sidewaysdictionary.com/) - a dictionary, analogies are used instead of definitions
@@ -144,6 +143,7 @@ I will be glad to accept your pull requests with must-see, must-read and must-kn
 
 - Школы
   - [HTMLAcademy](https://htmlacademy.ru/) - бесплатные интерактивные курсы по HTML и CSS
+  - [Подборка онлайн-школ](https://tproger.ru/digest/ways-to-learn-how-to-code/)
 
 - CSS
   - [Что такое Flexbox? Описание всех css свойств, основные принципы, преимущества и недостатки](http://html5.by/blog/flexbox/) 
