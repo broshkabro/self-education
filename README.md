@@ -5,7 +5,7 @@ I will be glad to accept your PRs with must-see, must-read and must-know resourc
 
 
 ## Table of contents
-********************
+
   - [In English](#in-english)
     - [GitHub](#github)
     - [CSS](#css)
@@ -27,7 +27,7 @@ I will be glad to accept your PRs with must-see, must-read and must-know resourc
 
 
 ## In English
-*************
+
 
 ### GitHub
 
@@ -195,7 +195,7 @@ I will be glad to accept your PRs with must-see, must-read and must-know resourc
 
 
 ## In Russian
-*************
+
 
 - Школы
   - [HTMLAcademy](https://htmlacademy.ru/) - бесплатные интерактивные курсы по HTML и CSS
