@@ -1,5 +1,11 @@
-# Table of contents
+# Welcome to my list of useful links for self-education in front-end development!
 
+I will be glad to accept your PRs with must-see, must-read and must-know resources!
+
+
+
+## Table of contents
+********************
   - [In English](#in-english)
     - [GitHub](#github)
     - [CSS](#css)
@@ -21,6 +27,7 @@
 
 
 ## In English
+*************
 
 ### GitHub
 
@@ -49,7 +56,7 @@
 | SASS      |- [SASS Guid-lines](https://sass-guidelin.es/)
 |           |- [How to Use Sass Mixins](https://scotch.io/tutorials/how-to-use-sass-mixins)
 |           |- [SCSS/SASS guide](https://jstutorial.medium.com/the-complete-guide-to-scss-sass-49ac053fcde5)
-| Tools     |- [CSS tolls for devs](https://levelup.gitconnected.com/9-useful-css-tools-for-web-developers-4ae3e8747b8a)
+| Tools     |- [CSS tools for devs](https://levelup.gitconnected.com/9-useful-css-tools-for-web-developers-4ae3e8747b8a)
 
 
 ### SVG
@@ -188,6 +195,7 @@
 
 
 ## In Russian
+*************
 
 - Школы
   - [HTMLAcademy](https://htmlacademy.ru/) - бесплатные интерактивные курсы по HTML и CSS
