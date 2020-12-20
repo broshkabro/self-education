@@ -83,7 +83,21 @@ I will be glad to accept your PRs with must-see, must-read and must-know resourc
 
 | JS           | Links
 | ------------ | -------
+| Spec Updates |- [JS features 2020](https://medium.com/javascript-in-plain-english/new-javascript-features-in-es2020-c2d76acf9c5a)
+|              |- [JS features 2020-2](https://medium.com/javascript-in-plain-english/javascript-2020-whats-new-in-ecmascript-14c0fe58c10a)
+|              |- [JS features 2021](https://medium.com/better-programming/the-top-3-new-javascript-es-2021-es-12-features-im-excited-about-a3ac129efbb2)
+| JS Console   |- [Mastering JS Console](https://medium.com/javascript-in-plain-english/mastering-js-console-log-like-a-pro-1c634e6393f9)
+| Functions    |- [Function secrets](https://medium.com/javascript-in-plain-english/function-in-javascript-has-much-more-secrets-than-you-think-b3bf64055c99)
+| Objects      |- [Things you should know about objects](https://medium.com/javascript-in-plain-english/six-things-you-should-know-about-objects-in-javascript-ccd11a9e1998)
+|              |- [Ways to duplicate objects](https://medium.com/better-programming/different-ways-to-duplicate-objects-in-javascript-c199be34ecb7)
+|              |- [Object.freeze vs Object.seal](https://medium.com/javascript-in-plain-english/object-freeze-vs-object-seal-immutability-7c22f80aa8ae)
 | Scope, closure, hoisting |- [Scope, closure, hoisting](https://codeburst.io/js-demystified-04-execution-context-97dea52c8ac6)
+|              |- [Closures with examples](https://medium.com/swlh/javascript-closures-with-examples-explained-e782a8f57c)
+|              |- [Execution context, lexical env ad closures](https://medium.com/better-programming/execution-context-lexical-environment-and-closures-in-javascript-b57c979341a5)
+|              |- [Guide to execution contexts, hoisting, scopes, closures](https://ui.dev/ultimate-guide-to-execution-contexts-hoisting-scopes-and-closures-in-javascript/)
+|              |- [What is a closure](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36)
+| Spread & Rest|- [Ways to use spread](https://medium.com/javascript-in-plain-english/8-ways-to-use-spread-operator-in-javascript-b66fcf016efe)
+| Promises     |- [Promises in JS](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261)
 | ES Modules   |- [ES modules: A cartoon deep-dive](https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/)
 |              |- [Files with .mjs extension for JS modules](https://medium.com/passpill-project/files-with-mjs-extension-for-javascript-modules-ced195d7c84a)
 | Patterns     |- [JS patterns](https://proglib.io/p/javascript-patterns/)
@@ -92,7 +106,11 @@ I will be glad to accept your PRs with must-see, must-read and must-know resourc
 | Regex        |- [Regex tutorial](https://www.regular-expressions.info/lookaround.html)
 |              |- [Regex tutorial 2](https://www.rexegg.com/regex-lookarounds.html)
 | jsPerf       |- [Type coercion positive numbers (unary plus vs Number vs parseInt)](https://jsperf.com/type-coercion-positive-numbers)
-|              |-[Unary plus vs parseInt](https://stackoverflow.com/questions/17106681/parseint-vs-unary-plus-when-to-use-which/17106702#17106702)
+|              |- [Unary plus vs parseInt](https://stackoverflow.com/questions/17106681/parseint-vs-unary-plus-when-to-use-which/17106702#17106702)
+| Tips & Tricks|- [Guide to Tips & tricks](https://levelup.gitconnected.com/ultimate-guide-to-tips-tricks-and-javascript-features-you-should-know-27e0a4a6ffdf)
+|              |- [Shorthand coding techniques](https://levelup.gitconnected.com/javascript-shorthand-coding-techniques-13c15591113e)
+|              |- [JS tricks](https://medium.com/swlh/9-javascript-tricks-to-code-like-a-pro-d09ea534235)
+|              |- [10 JS one-liners](https://medium.com/dailyjs/10-javascript-oneliners-you-have-got-to-add-your-arsenal-as-a-developer-b733cbb973b2)
 
 
 ### React.js
@@ -191,6 +209,7 @@ I will be glad to accept your PRs with must-see, must-read and must-know resourc
 | ------------ | -------
 |              |- [How to pay devs less](https://ebanoe.it/2016/12/08/how-to-pay-devs-less/)
 |              |- [How to pay devs less 2](https://ebanoe.it/2017/02/09/how-to-oppress-developers/)
+|              |- [JS Quiz](https://medium.com/better-programming/quiz-how-well-do-you-know-your-js-fundamentals-df813504ff53)
 
 
 
