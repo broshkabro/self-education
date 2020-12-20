@@ -119,6 +119,12 @@ I will be glad to accept your PRs with must-see, must-read and must-know resourc
 | ------------ | -------
 | Tutorials    |- [ReactJS For Beginners](https://blog.andrewray.me/reactjs-for-stupid-people/)
 | Routing      |- [React-router Spec](https://reacttraining.com/react-router/web/example/recursive-paths)
+| Hooks        |- [useEffect](https://overreacted.io/a-complete-guide-to-useeffect/)
+|              |- [Common mistakes with useEffect](https://medium.com/javascript-in-plain-english/commons-mistakes-with-react-useeffect-hook-and-how-to-prevent-them-d0ca253fb1f7)
+|              |- [React hooks vs HOCs](https://www.robinwieruch.de/react-hooks-higher-order-components)
+| Fast refresh |- [Fast refresh](https://medium.com/javascript-in-plain-english/what-is-react-fast-refresh-f3d1e8401333)
+| Components   |- [5 useful React components](https://medium.com/javascript-in-plain-english/here-are-5-useful-react-components-fb3927e7d790)
+| Tips & tricks|- [6 easy React tricks](https://medium.com/better-programming/6-easy-react-tricks-that-may-surprise-you-822f5be43520)
 
 
 ### Angular
