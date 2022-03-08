@@ -174,6 +174,12 @@ I will be glad to accept your PRs with must-see, must-read and must-know resourc
 - Tips & tricks
   - [6 easy React tricks](https://medium.com/better-programming/6-easy-react-tricks-that-may-surprise-you-822f5be43520)
 
+- Virtual DOM
+  - [React Virtual DOM Explained in Simple English](https://adhithiravi.medium.com/react-virtual-dom-explained-in-simple-english-fc2d0b277bc5#:~:text=React%20uses%20virtual%20DOM%20to,re%2Drendering%20of%20the%20UI.) - a general description of how the Virtual DOM works in React.
+
+- Interview questions
+  - [React interview questions to expect in 2022 (with answers)](https://scrimba.com/articles/react-interview-questions/#can-you-write-react-without-jsx)
+
 
 ### Angular
 
